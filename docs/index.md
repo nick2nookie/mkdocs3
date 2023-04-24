@@ -1,6 +1,8 @@
 # Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+__Hello World,__
+
+Selamat datang di website nick2nookie disini kita akan mulai belajar bersama membahas pemrograman dasar terutama mengenai Technical Development di odoo dan juga kita akan belajar Fungsional Odoo. Selai belajar teori kita juga akan latihan exercise praktek langsung untuk develop apalikasi/modul di Odoo versi 16.
 
 ## Commands
 
